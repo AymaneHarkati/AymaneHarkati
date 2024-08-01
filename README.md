@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aymane and I'm a junior systems engineering, from Morocco.</h2>
+<h2 align="left">Hi 👋! My name is Aymane and I'm a junior Data Scientist, from Morocco.</h2>
 
 ###
 
