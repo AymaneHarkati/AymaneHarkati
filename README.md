@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is Aymane and I'm a junior Data Scientist, from Morocco.</h2>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AymaneHarkati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ###
 
 <img align="left" height="200" src="https://i.imgur.com/OOpRj.gif"  />
